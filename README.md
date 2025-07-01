@@ -22,19 +22,5 @@ The used data from the BPI Challenge 2019 can be found in the ```/data``` folder
     └── LICENSE                                          <- License that applies to the source code in this repository.
 
 
-## How to run
-
-### Locally
-
-To run the app locally/in your host environment, make sure you've installed:
-
-- Python == 3.11
-- poetry
-
-Then install the dependencies into a virtual environment:
-
-```sh
-poetry shell
-```
 
 
