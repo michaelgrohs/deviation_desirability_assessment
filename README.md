@@ -5,7 +5,7 @@ This repository contains the proof-of-concept scripts and results as described i
 
 
 ## Data
-The used data from the BPI Challenge 2019 should be stored in the ```/data``` folder. Original source is: https://data.4tu.nl/articles/dataset/BPI_Challenge_2019/12715853/1
+The used data from the BPI Challenge 2019 can be found in the ```/data``` folder. Original source is: https://data.4tu.nl/articles/dataset/BPI_Challenge_2019/12715853/1
 
 ### Built with
 * ![platform](https://img.shields.io/badge/MacOS--9cf?logo=Apple&style=social)
